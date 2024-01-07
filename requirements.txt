@@ -4,7 +4,6 @@ streamlit==1.29.0
 tensorflow==2.15.0
 matplotlib==3.7.2
 plotly==5.9.0
-skimage==0.20.0
 pandas==2.0.3
 pydot==2.0.0
 pydotplus==2.0.2
